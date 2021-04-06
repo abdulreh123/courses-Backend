@@ -16,4 +16,3 @@ module.exports = connection.define('courses',{
 },{
     timestamps:false
 })
-
